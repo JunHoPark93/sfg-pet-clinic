@@ -1,4 +1,4 @@
-package jay.springframework.sfgletclinic.model;
+package jay.springframework.sfgpetclinic.model;
 
 public class Person {
     private String firstName;
